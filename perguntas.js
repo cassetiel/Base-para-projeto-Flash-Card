@@ -2,150 +2,157 @@
 // Troque disciplina, pergunta e resposta pelos conteúdos que você criou.
 
 criaCartao(
-   'Disciplina 1',
-    'Pergunta 1',
-    'Resposta 1'
+    'Artes',
+    'O que é arte?',
+    'É uma forma de expressão humana.'
 )
 
 criaCartao(
-    'Disciplina 2',
-    'Pergunta 2',
-    'Resposta 2'
+    'Artes',
+    'Quais são as cores primárias?',
+    'Azul, vermelho e amarelo.'
 )
 
 criaCartao(
-    'Disciplina 3',
-    'Pergunta 3',
-    'Resposta 3'
+    'Filosofia',
+    'Quem é considerado o pai da Filosofia?',
+    'Sócrates.'
 )
 
 criaCartao(
-   'Disciplina 1',
-    'Pergunta 1',
-    'Resposta 1'
+    'Filosofia',
+    'O que a Filosofia estuda?',
+    'O conhecimento, a existência e o pensamento humano.'
 )
 
 criaCartao(
-    'Disciplina 2',
-    'Pergunta 2',
-    'Resposta 2'
+    'História',
+    'Em que ano ocorreu a Independência do Brasil?',
+    '1822.'
 )
 
 criaCartao(
-    'Disciplina 3',
-    'Pergunta 3',
-    'Resposta 3'
-)
-criaCartao(
-   'Disciplina 1',
-    'Pergunta 1',
-    'Resposta 1'
+    'História',
+    'Quem proclamou a Independência do Brasil?',
+    'Dom Pedro I.'
 )
 
 criaCartao(
-    'Disciplina 2',
-    'Pergunta 2',
-    'Resposta 2'
+    'Educação Física',
+    'Quantos jogadores um time de futebol tem em campo?',
+    '11 jogadores.'
 )
 
 criaCartao(
-    'Disciplina 3',
-    'Pergunta 3',
-    'Resposta 3'
-)
-criaCartao(
-   'Disciplina 1',
-    'Pergunta 1',
-    'Resposta 1'
+    'Educação Física',
+    'Qual é o principal benefício da atividade física?',
+    'Melhorar a saúde e a qualidade de vida.'
 )
 
 criaCartao(
-    'Disciplina 2',
-    'Pergunta 2',
-    'Resposta 2'
+    'Língua Portuguesa',
+    'O que é um verbo?',
+    'É a palavra que indica ação, estado ou fenômeno da natureza.'
 )
 
 criaCartao(
-    'Disciplina 3',
-    'Pergunta 3',
-    'Resposta 3'
-)
-criaCartao(
-   'Disciplina 1',
-    'Pergunta 1',
-    'Resposta 1'
+    'Língua Portuguesa',
+    'Qual é o plural de papel?',
+    'Papéis.'
 )
 
 criaCartao(
-    'Disciplina 2',
-    'Pergunta 2',
-    'Resposta 2'
+    'Programação',
+    'O que é uma variável?',
+    'Um espaço para armazenar dados.'
 )
 
 criaCartao(
-    'Disciplina 3',
-    'Pergunta 3',
-    'Resposta 3'
-)
-criaCartao(
-   'Disciplina 1',
-    'Pergunta 1',
-    'Resposta 1'
+    'Programação',
+    'Qual linguagem é usada para criar páginas web interativas?',
+    'JavaScript.'
 )
 
 criaCartao(
-    'Disciplina 2',
-    'Pergunta 2',
-    'Resposta 2'
+    'Inglês',
+    'Como se diz "bom dia" em inglês?',
+    'Good morning.'
 )
 
 criaCartao(
-    'Disciplina 3',
-    'Pergunta 3',
-    'Resposta 3'
-)
-criaCartao(
-   'Disciplina 1',
-    'Pergunta 1',
-    'Resposta 1'
+    'Inglês',
+    'O que significa a palavra "book"?',
+    'Livro.'
 )
 
 criaCartao(
-    'Disciplina 2',
-    'Pergunta 2',
-    'Resposta 2'
+    'Matemática',
+    'Quanto é 8 × 7?',
+    '56.'
 )
 
 criaCartao(
-    'Disciplina 3',
-    'Pergunta 3',
-    'Resposta 3'
-)
-criaCartao(
-   'Disciplina 1',
-    'Pergunta 1',
-    'Resposta 1'
+    'Matemática',
+    'Qual é a raiz quadrada de 81?',
+    '9.'
 )
 
 criaCartao(
-    'Disciplina 2',
-    'Pergunta 2',
-    'Resposta 2'
+    'Sociologia',
+    'O que estuda a Sociologia?',
+    'As relações entre as pessoas e a sociedade.'
 )
 
 criaCartao(
-    'Disciplina 3',
-    'Pergunta 3',
-    'Resposta 3'
-)
-criaCartao(
-   'Disciplina 1',
-    'Pergunta 1',
-    'Resposta 1'
+    'Sociologia',
+    'O que é cultura?',
+    'É o conjunto de costumes, crenças e tradições de um povo.'
 )
 
 criaCartao(
-    'Disciplina 2',
-    'Pergunta 2',
-    'Resposta 2'
+    'Física',
+    'Qual é a unidade de força?',
+    'Newton.'
+)
+
+criaCartao(
+    'Física',
+    'Qual é a aceleração da gravidade na Terra?',
+    'Aproximadamente 9,8 m/s².'
+)
+
+criaCartao(
+    'Tecnologia',
+    'O que significa CPU?',
+    'Unidade Central de Processamento.'
+)
+
+criaCartao(
+    'Tecnologia',
+    'O que é um sistema operacional?',
+    'É o software que gerencia o computador.'
+)
+
+criaCartao(
+    'Robótica',
+    'O que é um sensor?',
+    'É um componente que detecta informações do ambiente.'
+)
+
+criaCartao(
+    'Robótica',
+    'Qual placa é muito usada em robótica educacional?',
+    'Arduino.'
+)
+
+criaCartao(
+    'Educação Financeira',
+    'O que é um orçamento?',
+    'É o planejamento das receitas e despesas.'
+)
+
+criaCartao(
+    'Educação Financeira',
+    'O que significa economizar?',
+    'Guardar dinheiro para uso futuro.'
 )
